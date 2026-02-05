@@ -1,0 +1,6 @@
+step1:load the data
+step2:EDA
+step3:Sepearate the data clearly
+step4:Train testing
+step5:selection of model
+step6:Evaluation metrices
